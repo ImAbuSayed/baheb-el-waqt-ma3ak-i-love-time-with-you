@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في كل ليلة
+> أحب الوقت معاك يا روحي
+> أنت النبض وأنت الدليلة
+> حبك يداوي كل جروحي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
